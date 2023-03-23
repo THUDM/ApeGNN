@@ -40,7 +40,7 @@ If you find this work is helpful to your research, please consider citing our pa
 ```
 @inproceedings{zhang2023apegnn,
   title={ApeGNN: Node-Wise Adaptive Aggregation in GNNs for Recommendation},
-  author={Zhang, Dan and Zhu, Yidan and Dong, Yuxiao and Wang, Yuandong and Wenzheng, Feng and Kharlamov, Evgeny and Tang, Jie},
+  author={Zhang, Dan and Zhu, Yifan and Dong, Yuxiao and Wang, Yuandong and Wenzheng, Feng and Kharlamov, Evgeny and Tang, Jie},
   booktitle={WWW'23},
   year={2023}
 }
